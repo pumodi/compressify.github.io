@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Compressify
 
-You can use the [editor on GitHub](https://github.com/pumodi/compressify.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This site is meant to be a reference guide for various types of audio artifacts that are created as part of the data compression process for audio files. Coming to light alongside the invention of MP3, perceptual encoding can sometimes create audible artifacts and distortions in an audio stream that manifest in different ways. Learning to identify what these different artifacts sound like is crucial to identifying how to alter your compression settings to improve fidelity.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The goal here is to provide a clean audio stream in wav format, a clean & compressed audio stream in mp3, and an mp3 audio stream with the artifact in question. We will also provide screenshots from iZotope RX to give a visual reference for what is occurring. Lastly, we will offer suggestions on how to fix these issues with your encoding settings.
 
-### Markdown
+* TOC
+{:toc}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Ringing
 
-```markdown
-Syntax highlighted code block
+## Pre-Echo
 
-# Header 1
-## Header 2
-### Header 3
+## Birdies
 
-- Bulleted
-- List
+## Drop-Outs
 
-1. Numbered
-2. List
+## Rattling
 
-**Bold** and _Italic_ and `Code` text
+## Warbling
 
-[Link](url) and ![Image](src)
-```
+## Metallic Ringing
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Submerged
 
-### Jekyll Themes
+## Hissing
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pumodi/compressify.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Graininess
 
-### Support or Contact
+## Hollowness/Spectral Hole
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Swishing/Swirling
+
+## Crispiness
+
+## Harmonic Distortion
